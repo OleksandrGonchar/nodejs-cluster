@@ -1,0 +1,11 @@
+{
+  "name": "simple-cluster-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oleksandr Gonchar <goncharao.ukr@gmail.com> (https://linkedin.com/in/oleksandr-gonchar-949800aa)",
+  "license": "MIT"
+}
